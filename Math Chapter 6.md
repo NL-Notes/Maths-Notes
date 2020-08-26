@@ -1,6 +1,6 @@
 # Index Laws
 ### Index Law 1:
-$$a^m * a^n = a^{m+n}$$
+$a^m \times a^n = a^{m+n}$
 ### Index Law 2:
 $$\frac {a^m} {a^n} = a^{m-n}$$
 ### Index Law 3:
